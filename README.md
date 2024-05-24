@@ -6,7 +6,9 @@ Este proyecto es la resolución del Challenge - Foro Alura, parte del cuarto ret
 - Java 17: Para el desarrollo del backend.
 - IntelliJ IDEA: Como entorno de desarrollo integrado (IDE).
 - Insomnia: Para pruebas de la API.
-- Descripción del Reto
+
+Descripción del Reto
+
 El desafío consiste en crear una API Rest siguiendo las mejores prácticas del modelo REST. Incluye la validación de datos y la implementación de una base de datos para asegurar la persistencia de la información.
 
 Tecnologías Utilizadas
